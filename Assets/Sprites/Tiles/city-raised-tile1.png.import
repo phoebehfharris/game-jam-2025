@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dwatbyhpvxsm4"
-path="res://.godot/imported/city-walled-tile0.png-ae43328dc0309451f0bb23b069f29336.ctex"
+uid="uid://c4ic1e1h4l3yq"
+path="res://.godot/imported/city-raised-tile1.png-a9a3621432076229ff18df38a761bed3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/city-walled-tile0.png"
-dest_files=["res://.godot/imported/city-walled-tile0.png-ae43328dc0309451f0bb23b069f29336.ctex"]
+source_file="res://Assets/Sprites/Tiles/city-raised-tile1.png"
+dest_files=["res://.godot/imported/city-raised-tile1.png-a9a3621432076229ff18df38a761bed3.ctex"]
 
 [params]
 

@@ -1,8 +1,8 @@
 [gd_resource type="TileSet" load_steps=9 format=3 uid="uid://c4ai1u8yybhho"]
 
-[ext_resource type="Texture2D" uid="uid://c4ic1e1h4l3yq" path="res://Assets/Sprites/city-raised-tile1.png" id="1_02c43"]
-[ext_resource type="Texture2D" uid="uid://dab7qrg4bnm6p" path="res://Assets/Sprites/city-raised-tile0.png" id="2_02c43"]
-[ext_resource type="Texture2D" uid="uid://cnm2yxvpxsltw" path="res://Assets/Sprites/city-tile0.png" id="2_ujgj0"]
+[ext_resource type="Texture2D" uid="uid://c4ic1e1h4l3yq" path="res://Assets/Sprites/Tiles/city-raised-tile1.png" id="1_02c43"]
+[ext_resource type="Texture2D" uid="uid://dab7qrg4bnm6p" path="res://Assets/Sprites/Tiles/city-raised-tile0.png" id="2_02c43"]
+[ext_resource type="Texture2D" uid="uid://cnm2yxvpxsltw" path="res://Assets/Sprites/Tiles/city-tile0.png" id="2_ujgj0"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_x7jcc"]
 texture = ExtResource("1_02c43")

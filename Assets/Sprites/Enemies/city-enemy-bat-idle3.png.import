@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dab7qrg4bnm6p"
-path="res://.godot/imported/city-raised-tile0.png-9ea9755defabf438595845ca76d6749d.ctex"
+uid="uid://e1xym4trwla3"
+path="res://.godot/imported/city-enemy-bat-idle3.png-4487314a9cc41866b99f06a3d528691e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/city-raised-tile0.png"
-dest_files=["res://.godot/imported/city-raised-tile0.png-9ea9755defabf438595845ca76d6749d.ctex"]
+source_file="res://Assets/Sprites/Enemies/city-enemy-bat-idle3.png"
+dest_files=["res://.godot/imported/city-enemy-bat-idle3.png-4487314a9cc41866b99f06a3d528691e.ctex"]
 
 [params]
 
